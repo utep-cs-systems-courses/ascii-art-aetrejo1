@@ -34,7 +34,7 @@ int main()
 	print_char_11x16(c);
       break;
     case 'n' :
-      puts("test");
+      puts("you selected new font");
       for (char c = 'A'; c < 'D'; c++)
 	print_char_8x12(c);
       break;
